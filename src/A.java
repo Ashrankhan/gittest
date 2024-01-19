@@ -1,5 +1,9 @@
 public class A {
 
       int x;
-      int g;
+
+     int y;
+     int z;
+     int k;
+
 }
